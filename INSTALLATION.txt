@@ -1,0 +1,13 @@
+
+
+***PANDUAN CARA INSTALL***
+
+1.copy project ke localhost ( xampp/htdocs/RW_021 )
+
+2.buat database dengan nama rw_021
+
+3.import table dari database rw_021.sql 
+4.konfigurasinya ada di admin/config.php
+
+
+5.jalankan dengan localhost/RW_021/index1.php
